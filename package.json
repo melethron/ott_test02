@@ -1,0 +1,14 @@
+{
+  "name": "task02",
+  "version": "1.0.0",
+  "description": "Test task from OTT",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Efimov",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
+}
